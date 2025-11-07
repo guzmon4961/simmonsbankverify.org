@@ -1,0 +1,5 @@
+mkdir banking-captcha-app
+cd banking-captcha-app
+mkdir server && cd server
+npm init -y
+npm install express axios dotenv cors
